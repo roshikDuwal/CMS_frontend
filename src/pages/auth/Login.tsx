@@ -15,7 +15,7 @@ import {
   Text,
 } from "@chakra-ui/react";
 import { SubmitHandler, useForm } from "react-hook-form";
-import { Link, NavLink } from "react-router-dom";
+import { Link} from "react-router-dom";
 
 import { ViewIcon } from "@chakra-ui/icons";
 import { ViewOffIcon } from "@chakra-ui/icons";
