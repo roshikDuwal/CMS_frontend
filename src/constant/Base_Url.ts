@@ -1,3 +1,4 @@
-const domain="https://cms-backend-f0ye0va1j-roshikduwal.vercel.app"
+const domain="https://cms-backend-ecru.vercel.app"
+// const domain ="http://localhost:4000"
 
 export const subdomain=`${domain}/api/v1`
